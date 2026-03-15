@@ -1,0 +1,257 @@
+[
+    {
+        "PROCEDURE_GROUP": "Abdominoplasty"
+    },
+    {
+        "PROCEDURE_GROUP": "All Other Procedures"
+    },
+    {
+        "PROCEDURE_GROUP": "All Procedures"
+    },
+    {
+        "PROCEDURE_GROUP": "Aortic Aneurysm Repair"
+    },
+    {
+        "PROCEDURE_GROUP": "Appendectomy"
+    },
+    {
+        "PROCEDURE_GROUP": "Bariatric Surgery"
+    },
+    {
+        "PROCEDURE_GROUP": "Biopsy in OR"
+    },
+    {
+        "PROCEDURE_GROUP": "Bladder Surgery"
+    },
+    {
+        "PROCEDURE_GROUP": "Bowel Resection"
+    },
+    {
+        "PROCEDURE_GROUP": "Breast Biopsy"
+    },
+    {
+        "PROCEDURE_GROUP": "Breast Reconstruction"
+    },
+    {
+        "PROCEDURE_GROUP": "Breast Reduction"
+    },
+    {
+        "PROCEDURE_GROUP": "CSF Drainage"
+    },
+    {
+        "PROCEDURE_GROUP": "Cataract Surgery"
+    },
+    {
+        "PROCEDURE_GROUP": "Cholecystectomy"
+    },
+    {
+        "PROCEDURE_GROUP": "Colostomy/Ileostomy"
+    },
+    {
+        "PROCEDURE_GROUP": "Cone Biopsy"
+    },
+    {
+        "PROCEDURE_GROUP": "Cranial Surgery"
+    },
+    {
+        "PROCEDURE_GROUP": "Cyst/Ganglion Removal"
+    },
+    {
+        "PROCEDURE_GROUP": "D&C and Related Surgery"
+    },
+    {
+        "PROCEDURE_GROUP": "Dental Surgery"
+    },
+    {
+        "PROCEDURE_GROUP": "Endarterectomy"
+    },
+    {
+        "PROCEDURE_GROUP": "Esophagectomy"
+    },
+    {
+        "PROCEDURE_GROUP": "Examination Under Anaesthetic"
+    },
+    {
+        "PROCEDURE_GROUP": "Excision Gynecomastia"
+    },
+    {
+        "PROCEDURE_GROUP": "Excision Lesion/Tumour"
+    },
+    {
+        "PROCEDURE_GROUP": "Facial Bone Reconstruction"
+    },
+    {
+        "PROCEDURE_GROUP": "Fallopian Tube/Ovarian Surgery"
+    },
+    {
+        "PROCEDURE_GROUP": "Fistula Repair - Non Vascular"
+    },
+    {
+        "PROCEDURE_GROUP": "Foot/Ankle Surgery"
+    },
+    {
+        "PROCEDURE_GROUP": "Foreign Body Removal Surgery"
+    },
+    {
+        "PROCEDURE_GROUP": "Fracture Repair"
+    },
+    {
+        "PROCEDURE_GROUP": "Free Flap Graft"
+    },
+    {
+        "PROCEDURE_GROUP": "Gastrostomy/Jejunostomy"
+    },
+    {
+        "PROCEDURE_GROUP": "Hand/Wrist Surgery"
+    },
+    {
+        "PROCEDURE_GROUP": "Hernia Repair - Abdominal"
+    },
+    {
+        "PROCEDURE_GROUP": "Hernia Repair - Chest Wall"
+    },
+    {
+        "PROCEDURE_GROUP": "Hernia Repair - Hiatal"
+    },
+    {
+        "PROCEDURE_GROUP": "Hip Replacement"
+    },
+    {
+        "PROCEDURE_GROUP": "Kidney/Bladder Stone Removal"
+    },
+    {
+        "PROCEDURE_GROUP": "Knee - ACL Repair"
+    },
+    {
+        "PROCEDURE_GROUP": "Knee - Meniscectomy"
+    },
+    {
+        "PROCEDURE_GROUP": "Knee Arthroscopy"
+    },
+    {
+        "PROCEDURE_GROUP": "Knee Replacement"
+    },
+    {
+        "PROCEDURE_GROUP": "Laparoscopy"
+    },
+    {
+        "PROCEDURE_GROUP": "Laparotomy"
+    },
+    {
+        "PROCEDURE_GROUP": "Lens & Vitreous (non-cataract) Surgery"
+    },
+    {
+        "PROCEDURE_GROUP": "Ligament Surgery"
+    },
+    {
+        "PROCEDURE_GROUP": "Lipectomy"
+    },
+    {
+        "PROCEDURE_GROUP": "Lung Surgery"
+    },
+    {
+        "PROCEDURE_GROUP": "Male Reproductive Surgery"
+    },
+    {
+        "PROCEDURE_GROUP": "Mastectomy"
+    },
+    {
+        "PROCEDURE_GROUP": "Mastoidectomy"
+    },
+    {
+        "PROCEDURE_GROUP": "Myringotomy"
+    },
+    {
+        "PROCEDURE_GROUP": "Nasal Surgery"
+    },
+    {
+        "PROCEDURE_GROUP": "Nerve Surgery"
+    },
+    {
+        "PROCEDURE_GROUP": "Oral Cavity & Pharynx Surgery"
+    },
+    {
+        "PROCEDURE_GROUP": "Other Ear Surgery"
+    },
+    {
+        "PROCEDURE_GROUP": "Other Eye Surgery"
+    },
+    {
+        "PROCEDURE_GROUP": "Other Joint Reconstruction"
+    },
+    {
+        "PROCEDURE_GROUP": "Other Orthopaedic Surgery"
+    },
+    {
+        "PROCEDURE_GROUP": "Other Urology Surgery"
+    },
+    {
+        "PROCEDURE_GROUP": "Parotidectomy"
+    },
+    {
+        "PROCEDURE_GROUP": "Prostate Surgery"
+    },
+    {
+        "PROCEDURE_GROUP": "Rectal Surgery"
+    },
+    {
+        "PROCEDURE_GROUP": "Rib Resection"
+    },
+    {
+        "PROCEDURE_GROUP": "Scope of Chest"
+    },
+    {
+        "PROCEDURE_GROUP": "Shoulder Surgery"
+    },
+    {
+        "PROCEDURE_GROUP": "Shunt Insertion/Removal"
+    },
+    {
+        "PROCEDURE_GROUP": "Sinus Surgery"
+    },
+    {
+        "PROCEDURE_GROUP": "Skin Surgery"
+    },
+    {
+        "PROCEDURE_GROUP": "Skin Tumour Removal"
+    },
+    {
+        "PROCEDURE_GROUP": "Sphincterotomy"
+    },
+    {
+        "PROCEDURE_GROUP": "Spinal/Back Surgery"
+    },
+    {
+        "PROCEDURE_GROUP": "Tendon Surgery"
+    },
+    {
+        "PROCEDURE_GROUP": "Thoracotomy"
+    },
+    {
+        "PROCEDURE_GROUP": "Thyroidectomy"
+    },
+    {
+        "PROCEDURE_GROUP": "Tonsillectomy/Adenoidectomy"
+    },
+    {
+        "PROCEDURE_GROUP": "Tympanoplasty"
+    },
+    {
+        "PROCEDURE_GROUP": "Uterine Surgery"
+    },
+    {
+        "PROCEDURE_GROUP": "Vaginal Repair"
+    },
+    {
+        "PROCEDURE_GROUP": "Varicose Veins Ligation/Stripping"
+    },
+    {
+        "PROCEDURE_GROUP": "Vascular Bypass Graft - Non Cardiac"
+    },
+    {
+        "PROCEDURE_GROUP": "Vascular Surgery - Other"
+    },
+    {
+        "PROCEDURE_GROUP": "Wound/Laceration Care"
+    }
+]
