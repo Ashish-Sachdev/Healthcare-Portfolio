@@ -47,19 +47,18 @@
 
 
 
-# from docx to pdf import converter: 
 
-# from docx2pdf import convert
-# import os
+from docx2pdf import convert
+import os
 
-# docx_file = r'C:\Word Documents\Job Description.docx'
+docx_file = r'C:\Users\sachd\Downloads\Ashishkumar_Sachdev_Resume_JDA.docx'
 
-# convert(docx_file)
+convert(docx_file)
 
-# pdf_name = os.path.splitext(os.path.basename(docx_file))[0] + '.pdf'
-# print(f"Done! '{pdf_name}' saved.")
+pdf_name = os.path.splitext(os.path.basename(docx_file))[0] + '.pdf'
+print(f"Done! '{pdf_name}' saved.")
 
-#Create a database:
+# Create a database:
 # import sqlite3
 
 # conn = sqlite3.connect(r"D:\Healthcare Analytics Portfolio\Level-2\Data\healthcare_waittimes.db")
@@ -68,19 +67,19 @@
 # conn.close()
 
 
-import sqlite3
-import pandas as pd
+# import sqlite3
+# import pandas as pd
 
-# Connect to your database
-conn = sqlite3.connect(r"D:\Healthcare Analytics Portfolio\Level-2\Data\healthcare_waittimes.db")
+# # Connect to your database
+# conn = sqlite3.connect(r"D:\Healthcare Analytics Portfolio\Level-2\Data\healthcare_waittimes.db")
 
-# Read your sheets
-df1 = pd.read_excel(r"D:\Healthcare Analytics Portfolio\Level-2\Data\CIHI Wait Times Priority Procedures\CIHI_wait_times.xlsx", sheet_name="Table 1", skiprows=1)
-df2 = pd.read_excel(r"D:\Healthcare Analytics Portfolio\Level-2\Data\BC Surgical Wait Times\2009-2025_annual_surgical_wait_times.xlsx", sheet_name="Sheet1")
+# # Read your sheets
+# df1 = pd.read_excel(r"D:\Healthcare Analytics Portfolio\Level-2\Data\CIHI Wait Times Priority Procedures\CIHI_wait_times.xlsx", sheet_name="Table 1", skiprows=1)
+# df2 = pd.read_excel(r"D:\Healthcare Analytics Portfolio\Level-2\Data\BC Surgical Wait Times\2009-2025_annual_surgical_wait_times.xlsx", sheet_name="Sheet1")
 
-# Write them into the database as tables
-df1.to_sql("cihi_table1", conn, if_exists="replace", index=False)
-df2.to_sql("bc_table2", conn, if_exists="replace", index=False)
+# # Write them into the database as tables
+# df1.to_sql("cihi_table1", conn, if_exists="replace", index=False)
+# df2.to_sql("bc_table2", conn, if_exists="replace", index=False)
 
-print("Done! Both sheets loaded into the database.")
-conn.close()
+# print("Done! Both sheets loaded into the database.")
+# conn.close()
